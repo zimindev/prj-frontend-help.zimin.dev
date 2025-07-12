@@ -1,1 +1,1 @@
-# prj-frontend-hesk.zimin.dev
+# prj-frontend-support.zimin.dev
