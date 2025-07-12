@@ -15,4 +15,6 @@
 - **🔗 Official Site:** [https://www.hesk.com](https://www.hesk.com)  
 - **⬇️ Free Version (GPL):** [Download HESK](https://www.hesk.com/download.php)  
 
-*Need help with setup? Let me know!* 🚀  
+## Deployment logs
+[Logs for HESK](https://github.com/zimindev/logs-deployment-website-help.zimin.dev)
+
